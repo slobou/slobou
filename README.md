@@ -135,14 +135,4 @@
 
 ###
 
-<h2 align="left">Listen to my coding tracks 🎧🎸</h2>
 
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://thewolflone.pythonanywhere.com/?theme=dark&scan=false&spin=false&rainbow=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
