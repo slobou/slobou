@@ -135,4 +135,4 @@
 
 ###
 
-
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kirigatitos&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=kirigatitos&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=0040ff&bar_color_cover=true)]]
